@@ -1,4 +1,14 @@
 ### Hi there 👋
+See what I'm up to online!
+
+My newsletter - receive my talks and articles periodically! [sign up](https://mailchi.mp/a1db5198f63f/karol-horosin-conference-newsletter)
+
+### Public speaking 💁🏻‍♂️
+
+**2020-09-07** [PL] Imagination Factrory Podcast: KANCELARIA PRAWNA PRZYSZŁOŚCI - [spotify](https://open.spotify.com/episode/790V7GsSpNx18jVJVnH0Gw) - [other](https://www.imaginationfactory.pl/podcast/episode/78aedb6f/s02e02-kancelaria-prawna-przyszlosci)
+
+**2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](https://gitlab.com/horosin/serverless-js-tutorial)
+
 
 <!--
 **horosin/horosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
