@@ -9,6 +9,19 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 **2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](https://gitlab.com/horosin/serverless-js-tutorial)
 
+**2019-10-21** [EN] No framework frontends in practice - use the platform! - *4Developers Katowice* - [video](https://www.youtube.com/watch?v=TP-oM3XUiNM&t=356s) - [code](https://bit.ly/no-framework-app)
+
+**2019-10-21** [PL] Nginx as reverse proxy for your (micro) services - *4Developers Katowice* - [video](https://www.youtube.com/watch?v=NAr3EZMgEbY&t=623s) - [code](bit.ly/nginx-intro)
+
+### About me 👨🏻‍💻
+
+Hi, I'm a software engineer, startup enthusiast, conference speaker. 
+
+Currently mainly focused at fighting cancer and other diseases at AI and bioinformatics company called Ardigen based in Krakow. My primary tools include Python and JavaScript, running in cloud environments.
+
+Outside of my day job, I'm working on a few startup ideas. I also contribute to eye retinal implant research in the project developed by AGH and Stanford. Interested in space exploration, filmmaking and literature.
+
+
 
 <!--
 **horosin/horosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
