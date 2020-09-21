@@ -5,6 +5,8 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 ### Public speaking 💁🏻‍♂️
 
+*list in construction*
+
 **2020-09-07** [PL] Imagination Factrory Podcast: KANCELARIA PRAWNA PRZYSZŁOŚCI - [spotify](https://open.spotify.com/episode/790V7GsSpNx18jVJVnH0Gw) - [other](https://www.imaginationfactory.pl/podcast/episode/78aedb6f/s02e02-kancelaria-prawna-przyszlosci)
 
 **2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](https://gitlab.com/horosin/serverless-js-tutorial)
