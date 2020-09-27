@@ -31,8 +31,9 @@ Outside of my day job, I'm working on a few startup ideas. I also contribute to 
   <a href="https://instagram.com/horosin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="horosin" height="30" width="30" /></a>
 </p>
 
-
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/horosin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="40px"></a>
+</p>
 <!--
 **horosin/horosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
