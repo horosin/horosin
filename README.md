@@ -7,9 +7,15 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 *list in construction*
 
+**2020-09-17** [PL] 4 developers - Decoding the neural code - analyzing data form brain-machine interfaces
+
 **2020-09-07** [PL] Imagination Factrory Podcast: KANCELARIA PRAWNA PRZYSZŁOŚCI - [spotify](https://open.spotify.com/episode/790V7GsSpNx18jVJVnH0Gw) - [other](https://www.imaginationfactory.pl/podcast/episode/78aedb6f/s02e02-kancelaria-prawna-przyszlosci)
 
 **2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](https://gitlab.com/horosin/serverless-js-tutorial)
+
+**2020-07-22** [EN] Dev.js - Serverless functions with JavaScript, AWS lambda and serverless framework
+
+**2020-06-24** [EN] 4 developers - Serverless functions with JavaScript, AWS lambda and serverless framework
 
 **2019-10-21** [EN] No framework frontends in practice - use the platform! - *4Developers Katowice* - [video](https://www.youtube.com/watch?v=TP-oM3XUiNM&t=356s) - [code](https://bit.ly/no-framework-app)
 
