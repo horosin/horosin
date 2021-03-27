@@ -13,7 +13,7 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 **2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](https://gitlab.com/horosin/serverless-js-tutorial)
 
-**2020-07-22** [EN] Dev.js - Serverless functions with JavaScript, AWS lambda and serverless framework
+**2020-07-22** [EN] Dev.js - Serverless functions with JavaScript, AWS lambda and serverless framework [video at fb](https://fb.watch/4uZ1StTdqW/?t=2346)
 
 **2020-06-24** [EN] 4 developers - Serverless functions with JavaScript, AWS lambda and serverless framework [video](https://www.youtube.com/watch?v=Y5DARKkkoqY)
 
