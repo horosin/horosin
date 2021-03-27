@@ -15,7 +15,7 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 **2020-07-22** [EN] Dev.js - Serverless functions with JavaScript, AWS lambda and serverless framework
 
-**2020-06-24** [EN] 4 developers - Serverless functions with JavaScript, AWS lambda and serverless framework
+**2020-06-24** [EN] 4 developers - Serverless functions with JavaScript, AWS lambda and serverless framework [video](https://www.youtube.com/watch?v=Y5DARKkkoqY)
 
 **2019-10-21** [EN] No framework frontends in practice - use the platform! - *4Developers Katowice* - [video](https://www.youtube.com/watch?v=TP-oM3XUiNM&t=356s) - [code](https://bit.ly/no-framework-app)
 
