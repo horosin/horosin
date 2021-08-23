@@ -36,10 +36,18 @@ Outside of my day job, I'm working on a few startup ideas. I also contribute to 
 
 
 <br><br>
+
 <p align="center">
-  <a href="https://linkedin.com/in/horosin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="horosin" height="30" width="30" /></a> 
-  <a href="https://instagram.com/horosin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="horosin" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/horosin" target="blank" color="white">linkedin</a> 
+  <a href="https://instagram.com/horosin" target="blank" color="white">instagram</a>
 </p>
+
+<!--
+<p align="center">
+  <a href="https://linkedin.com/in/horosin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="horosin" height="30" width="30" />linkedin</a> 
+  <a href="https://instagram.com/horosin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="horosin" height="30" width="30" />instagram</a>
+</p>
+-->
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/horosin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="40px"></a>
