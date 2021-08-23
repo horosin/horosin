@@ -5,7 +5,11 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 ### Public speaking 💁🏻‍♂️
 
-*list in construction*
+*this list is alive*
+
+**2021-08-27** [EN] Devoxx - No framework frontends in practice - use the platform! [talk details](https://devoxx.pl/talk-details/?id=5189)
+
+**2021-08-27** [EN] Devoxx - Deploy your JavaScript project to GitHub Pages with GitHub Actions [talk details](https://devoxx.pl/talk-details/?id=5194)
 
 **2020-09-17** [PL] 4 developers - Decoding the neural code - analyzing data form brain-machine interfaces
 
