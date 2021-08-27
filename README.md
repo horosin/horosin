@@ -5,21 +5,19 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 ### Public speaking 💁🏻‍♂️
 
-*this list is alive*
+**2021-08-27** [EN] No framework frontends in practice - use the platform! - *Devoxx* - [talk details](https://devoxx.pl/talk-details/?id=5189) - [code](no-framework-js-app)
 
-**2021-08-27** [EN] Devoxx - No framework frontends in practice - use the platform! - [talk details](https://devoxx.pl/talk-details/?id=5189) - [code](no-framework-js-app)
+**2021-08-27** [EN] Deploy your JavaScript project to GitHub Pages with GitHub Actions - *Devoxx* - [talk details](https://devoxx.pl/talk-details/?id=5194) - [code](pages-deploy)
 
-**2021-08-27** [EN] Devoxx - Deploy your JavaScript project to GitHub Pages with GitHub Actions - [talk details](https://devoxx.pl/talk-details/?id=5194) - [code](pages-deploy)
-
-**2020-09-17** [PL] 4 developers - Decoding the neural code - analyzing data form brain-machine interfaces
+**2020-09-17** [PL] Decoding the neural code - analyzing data form brain-machine interfaces - *4 developers*
 
 **2020-09-07** [PL] Imagination Factrory Podcast: KANCELARIA PRAWNA PRZYSZŁOŚCI - [spotify](https://open.spotify.com/episode/790V7GsSpNx18jVJVnH0Gw) - [other](https://www.imaginationfactory.pl/podcast/episode/78aedb6f/s02e02-kancelaria-prawna-przyszlosci)
 
 **2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](serverless-js-tutorial)
 
-**2020-07-22** [EN] Dev.js - Serverless functions with JavaScript, AWS lambda and serverless framework - [video at fb](https://fb.watch/4uZ1StTdqW/?t=2346) - [code](serverless-js-tutorial)
+**2020-07-22** [EN] Serverless functions with JavaScript, AWS lambda and serverless framework - *Dev.js* - [video at fb](https://fb.watch/4uZ1StTdqW/?t=2346) - [code](serverless-js-tutorial)
 
-**2020-06-24** [EN] 4 developers - Serverless functions with JavaScript, AWS lambda and serverless framework - [video](https://www.youtube.com/watch?v=Y5DARKkkoqY) - [code](serverless-js-tutorial)
+**2020-06-24** [EN] Serverless functions with JavaScript, AWS lambda and serverless framework - *4 developers* - [video](https://www.youtube.com/watch?v=Y5DARKkkoqY) - [code](serverless-js-tutorial)
 
 **2019-10-21** [EN] No framework frontends in practice - use the platform! - *4Developers Katowice* - [video](https://www.youtube.com/watch?v=TP-oM3XUiNM&t=356s) - [code](https://bit.ly/no-framework-app)
 
