@@ -13,7 +13,7 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 **2020-09-07** [PL] Imagination Factrory Podcast: KANCELARIA PRAWNA PRZYSZŁOŚCI - [spotify](https://open.spotify.com/episode/790V7GsSpNx18jVJVnH0Gw) - [other](https://www.imaginationfactory.pl/podcast/episode/78aedb6f/s02e02-kancelaria-prawna-przyszlosci)
 
-**2020-09-03** [PL] Serverless REST API z AWS Lambda - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](serverless-js-tutorial)
+**2020-09-03** [PL] Serverless REST API z AWS Lambda -  *front.radar* - [video](https://youtu.be/2UCLjsz51zc?t=3329) - [code](serverless-js-tutorial)
 
 **2020-07-22** [EN] Serverless functions with JavaScript, AWS lambda and serverless framework - *Dev.js* - [video at fb](https://fb.watch/4uZ1StTdqW/?t=2346) - [code](serverless-js-tutorial)
 
