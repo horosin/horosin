@@ -9,6 +9,8 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 **2021-08-27** [EN] Deploy your JavaScript project to GitHub Pages with GitHub Actions - *Devoxx* - [talk details](https://devoxx.pl/talk-details/?id=5194) - [code](pages-deploy)
 
+**2021-03-31** [EN] No code REST APIs using AWS - *Ardigen Internal* - [code](no-code-api-workshop)
+
 **2020-09-17** [PL] Decoding the neural code - analyzing data form brain-machine interfaces - *4 developers*
 
 **2020-09-07** [PL] Imagination Factrory Podcast: KANCELARIA PRAWNA PRZYSZŁOŚCI - [spotify](https://open.spotify.com/episode/790V7GsSpNx18jVJVnH0Gw) - [other](https://www.imaginationfactory.pl/podcast/episode/78aedb6f/s02e02-kancelaria-prawna-przyszlosci)
