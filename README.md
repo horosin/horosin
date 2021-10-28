@@ -5,6 +5,8 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 ### Public speaking 💁🏻‍♂️
 
+**2021-10-28** CI/CD and tooling for standard Python projects - [code](https://github.com/horosin/python-standard-ci)
+
 **2021-08-27** [EN] No framework frontends in practice - use the platform! - *Devoxx* - [talk details](https://devoxx.pl/talk-details/?id=5189) - [code](https://github.com/horosin/no-framework-js-app)
 
 **2021-08-27** [EN] Deploy your JavaScript project to GitHub Pages with GitHub Actions - *Devoxx* - [talk details](https://devoxx.pl/talk-details/?id=5194) - [code](https://github.com/horosin/pages-deploy)
