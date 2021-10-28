@@ -5,7 +5,7 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 ### Public speaking 💁🏻‍♂️
 
-**2021-10-28** CI/CD and tooling for standard Python projects - [code](https://github.com/horosin/python-standard-ci)
+**2021-10-28** CI/CD and tooling for standard Python projects - [code](https://github.com/horosin/python-standard-ci) - [slides](https://docs.google.com/presentation/d/1AxIN9yACC_SSlkdaTgsyeARK3sScubQ2akP-P8AQr3U/edit?usp=sharing)
 
 **2021-08-27** [EN] No framework frontends in practice - use the platform! - *Devoxx* - [talk details](https://devoxx.pl/talk-details/?id=5189) - [code](https://github.com/horosin/no-framework-js-app)
 
