@@ -31,7 +31,7 @@ My newsletter - receive my talks and articles periodically! [sign up](https://ma
 
 Hi, I'm a software engineer, startup enthusiast, conference speaker. 
 
-Currently mainly focused at fighting cancer and other diseases at AI and bioinformatics company called Ardigen based in Krakow. My primary tools include Python and JavaScript, running in cloud environments.
+Currently mainly focused at fighting cancer and other diseases at AI and bioinformatics company called Ardigen based in Krakow. My primary tools include JavaScript and Python, running in cloud environments.
 
 Outside of my day job, I'm working on a few startup ideas. I also contribute to eye retinal implant research in the project developed by AGH and Stanford. Interested in space exploration, filmmaking and literature.
 
