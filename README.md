@@ -1,7 +1,19 @@
 ### Hi there 👋
 See what I'm up to online!
 
-My newsletter - receive my talks and articles periodically! [sign up](https://mailchi.mp/a1db5198f63f/karol-horosin-conference-newsletter)
+#### [📝 Blog and newsletter][blog]
+#### [💁🏻‍♂️ Conference talk recordings & code][conferences]
+#### [🤝 Consulting][consulting]
+
+[blog]: https://horosin.com
+
+[conferences]: https://horosin.com/conference
+
+[consulting]: https://horosin.com/consulting
+
+
+
+<!--My newsletter - receive my talks and articles periodically! [sign up](https://mailchi.mp/a1db5198f63f/karol-horosin-conference-newsletter)
 
 ### Public speaking 💁🏻‍♂️
 
@@ -36,13 +48,13 @@ Currently mainly focused at fighting cancer and other diseases at AI and bioinfo
 Outside of my day job, I'm working on a few startup ideas. I also contribute to eye retinal implant research in the project developed by AGH and Stanford. Interested in space exploration, filmmaking and literature.
 
 
-
 <br><br>
 
 <p align="center">
   <a href="https://linkedin.com/in/horosin" target="blank" color="white">linkedin</a> 
   <a href="https://instagram.com/horosin" target="blank" color="white">instagram</a>
 </p>
+-->
 
 <!--
 <p align="center">
